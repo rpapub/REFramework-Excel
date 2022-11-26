@@ -1,6 +1,6 @@
 {
   "name": "RoboticEnterpriseFrameworkTemp",
-  "description": "Robotic Enterprise Framework",
+  "description": "An adoption of the REFramework v2022.10.3 to read an Excel file into TransactionItem as DataRow(s).",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
